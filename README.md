@@ -60,20 +60,23 @@
 ---
 ## 📊 Research Impact
 
-- **ResearchGate**:  
-  - 19,093 reads  
-  - 822 citations  
-  - 27 recommendations
+- 📖 **ResearchGate**  
+  ![Reads](https://img.shields.io/badge/Reads-19,093-blue) 
+  ![Citations](https://img.shields.io/badge/Citations-822-brightgreen) 
+  ![Recommendations](https://img.shields.io/badge/Recommendations-27-lightgrey)
 
-- **Figshare**:  
-  - 27,618 views  
-  - 4,932 downloads  
-  - 2 dataset citations
+- 📂 **Figshare**  
+  ![Views](https://img.shields.io/badge/Views-27,618-blueviolet) 
+  ![Downloads](https://img.shields.io/badge/Downloads-4,932-orange) 
+  ![Dataset Citations](https://img.shields.io/badge/Dataset_Citations-2-yellowgreen)
 
-- **Google Scholar**:  
-  - 1,023 citations  
-  - h-index: 16  
-  - i10-index: 16
+- 🧠 **Google Scholar**  
+  ![Citations](https://img.shields.io/badge/Citations-1,023-brightgreen) 
+  ![h-index](https://img.shields.io/badge/h--index-16-9cf) 
+  ![i10-index](https://img.shields.io/badge/i10--index-16-9cf)
+
+> 📚 These research metrics reflect global academic engagement and the impact of my contributions in computational biology, structural bioinformatics, and high-performance scientific computing.
+
 
 ---
 
