@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suresh Pannerselvam (Amrithasuresh)
+# 👋 Hi, I'm Suresh Pannerselvam
 
 > 🧑‍🔬 **Researcher | Developer | HPC Specialist | Team Player**
 
