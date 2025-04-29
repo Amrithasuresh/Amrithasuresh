@@ -58,15 +58,27 @@
 - Advocates for open science and reproducible research practices
 
 ---
+## 📊 Research Impact
 
-## 🔗 Connect with Me
+- **ResearchGate**:  
+  - 19,093 reads  
+  - 822 citations  
+  - 27 recommendations
 
-- [Google Scholar](https://scholar.google.com/citations?user=sjdcpwsAAAAJ&hl=en)  
-- [ORCID](https://orcid.org/0000-0001-9341-2861)  
-- [GitHub Projects](https://github.com/Amrithasuresh)
+- **Figshare**:  
+  - 27,618 views  
+  - 4,932 downloads  
+  - 2 dataset citations
+
+- **Google Scholar**:  
+  - 1,023 citations  
+  - h-index: 16  
+  - i10-index: 16
 
 ---
 
+> These metrics reflect the global academic reach and engagement with my research contributions across computational biology, and structural bioinformatics.
+---
 ## 📈 GitHub Stats
 
 ![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrithasuresh&show_icons=true&theme=default)
