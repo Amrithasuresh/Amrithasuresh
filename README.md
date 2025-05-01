@@ -90,4 +90,4 @@
 
 ---
 
-*Committed to collaboration, reproducibility, and scientific impact.* 🚀
+*chatgpt template lol* 🚀
