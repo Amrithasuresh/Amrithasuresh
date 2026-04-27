@@ -30,7 +30,6 @@ I bridge the gap between cutting-edge life sciences and robust High-Performance 
 
 ## 🏆 Academic & Community Impact
 
-- 🧊 **Arctic Code Vault Contributor:** My code is preserved in GitHub’s long-term archive.
 - 🎓 **Ph.D. in Medical Science:** Ajou University, South Korea.
 - ⭐️ **Open Science Advocate:**
 
