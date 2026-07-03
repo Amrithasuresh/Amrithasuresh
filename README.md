@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Suresh Pannerselvam
-
 > 🧑‍🔬 **Computational Scientist | HPC Operations Lead | PhD**
 
 I bridge the gap between cutting-edge life sciences and robust High-Performance Computing infrastructure. 
@@ -21,7 +20,6 @@ I bridge the gap between cutting-edge life sciences and robust High-Performance 
 ---
 
 ## 📚 Selected Contributions
-
 - 🧬 **[BPPRC Database](https://bpprc.org):** Co-developed a global pesticidal protein database utilizing novel classification algorithms.
 - 📊 **BioHPC:** Operation Manager
 - 🔬 **Research Impact:** Protein interaction studies with 1,000+ citations.
@@ -29,14 +27,12 @@ I bridge the gap between cutting-edge life sciences and robust High-Performance 
 ---
 
 ## 🏆 Academic & Community Impact
-
 - 🎓 **Ph.D. in Medical Science:** Ajou University, South Korea.
 - ⭐️ **Open Science Advocate:**
 
 ---
 
 ## 📊 Research Metrics
-
 ![Google Scholar Citations](https://img.shields.io/badge/Scholar_Citations-1,172-brightgreen)
 ![h-index](https://img.shields.io/badge/h--index-16-9cf)
 ![ResearchGate Reads](https://img.shields.io/badge/RG_Reads-19k+-blue)
@@ -44,7 +40,6 @@ I bridge the gap between cutting-edge life sciences and robust High-Performance 
 ---
 
 ## 📈 GitHub Stats
-
-![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrithasuresh&show_icons=true&theme=default)
+![Suresh's GitHub stats](./github-stats.svg)
 
 ---
